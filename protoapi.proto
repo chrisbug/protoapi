@@ -30,7 +30,7 @@ message RequestDateTime {
 // For random password
 message RequestPass {
     int64 Seed = 1;
-    int64 Lenght = 8;
+    int64 Length = 8;
 }
 
 message RandomPass {
